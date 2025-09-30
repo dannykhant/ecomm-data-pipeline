@@ -1,4 +1,5 @@
 # Data Pipeline Specification
+![Pipeline Design](pipeline_design.png)
 
 ## 1. Overview
 - **Pipeline Name**: `ecomm_data_pipeline`
