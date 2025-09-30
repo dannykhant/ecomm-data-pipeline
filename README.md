@@ -1,4 +1,4 @@
-# Data Pipeline Specification
+# Data Pipeline Specification: ecomm-data-pipeline
 ![Pipeline Design](pipeline_design.png)
 
 ## 1. Overview
