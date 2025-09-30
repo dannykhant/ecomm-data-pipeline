@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: silver
+    database: ecomm_dw
+    schema: silver
+    tables:
+      - name: dim_customers
+        description: customer dimension

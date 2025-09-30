@@ -1,0 +1,12 @@
+version: 2
+
+models:
+    - name: agg_sales_kpi
+      description: "aggregated sales metrics: total revenue, total orders, AOV"
+
+    - name: agg_customer_kpi
+      description: "aggregated customer metrics: customer acquisition"
+
+    - name: agg_product_kpi
+      description: "aggregated product metrics: top selling product"
+

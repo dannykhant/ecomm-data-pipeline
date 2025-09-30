@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,created_at,updated_at
+cc759f8b-0a40-4739-b733-74c183f182c6,Mary,Sellers,mary.sellers30@example.com,2025-09-21T04:10:29.975589,2025-09-21T04:10:29.975589
+53933bf4-0586-46c7-9621-596687af160e,Whitney,Johnson,whitney.johnson67@example.com,2025-09-21T09:56:33.503132,2025-09-21T09:56:33.503132
+48ad1167-1e69-4eb3-97b7-9e325c2a3fa1,Diane,Brown,diane.brown34@example.com,2025-09-20T19:29:44.674660,2025-09-20T19:29:44.674660
+c05d5a37-2587-4aed-b43f-aab25cb58979,Jeremy,Macdonald,jeremy.macdonald66@example.com,2025-09-21T05:51:46.743562,2025-09-21T05:51:46.743562
+b35fa0f9-4d01-4544-8d45-733b46a9a293,Janet,Skinner,janet.skinner19@example.com,2025-09-20T19:43:26.036792,2025-09-20T19:43:26.036792
+ecffe70b-b21c-4e54-af09-99574482a7bf,Nicholas,Bender,nicholas.bender69@example.com,2025-09-21T03:32:05.219737,2025-09-21T03:32:05.219737
+e4186dad-2047-4f48-a576-ae050e559ef2,Mark,Lucero,mark.lucero94@example.com,2025-09-21T04:36:46.600588,2025-09-21T04:36:46.600588
+ca06db2e-8d5b-40e3-ad32-61f893d48b5c,Cassandra,Kennedy,cassandra.kennedy26@example.com,2025-09-21T09:31:46.794886,2025-09-21T09:31:46.794886
+78f7dc25-12af-4def-93c2-1c4885d9a1d2,Michael,Lopez,michael.lopez50@example.com,2025-09-20T16:36:02.687696,2025-09-20T16:36:02.687696
+0efd7ed8-87a5-4e31-bf8b-7335b15a26cb,Kevin,Davis,kevin.davis82@example.com,2025-09-21T08:04:32.173120,2025-09-21T08:04:32.173120

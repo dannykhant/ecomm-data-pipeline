@@ -1,0 +1,32 @@
+version: 2
+
+sources:
+  - name: gold
+    tables:
+      - name: sales_analytics
+        description: source obt to analyze the sales
+        columns:
+          - name: order_id
+            description: unique id of order
+            tests:
+              - not_null
+          - name: order_date
+            description: order created date
+          - name: order_status
+            description: order current status such as complete, pending, etc
+          - name: full_name
+            description: customer full name
+          - name: email
+            description: customer email address
+          - name: product_name
+            description: name of the product ordered
+          - name: category
+            description: category of the product ordered
+          - name: unit_price
+            description: per-unit price of the product ordered
+          - name: quantity
+            description: quantity of the product ordered
+          - name: item_price
+            description: line-item price of the product ordered (unit_price * quantity)
+          - name: total_amount
+            description: total_amount of the order

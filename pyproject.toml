@@ -1,0 +1,7 @@
+[project]
+name = "ecomm-pipeline"
+version = "0.1.0"
+description = "Ecommerce Data Pipeline"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
